@@ -39,7 +39,7 @@ I invite you to explore the project and appreciate the effort that has gone into
 
 #### 1. To install run the following commands in a working directory: 
 ```
-git clone https://github.com/KamilGrzechulski/SoftCRM.git
+git clone https://github.com/ultrasynergy/SoftCRM.git
 ```
 #### 2. Now run and make sure you have the composer installed on your machine:
 ```
